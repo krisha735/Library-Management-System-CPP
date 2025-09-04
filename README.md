@@ -33,8 +33,10 @@
 
 ---
 👩‍💻 Contributors
--Krisha Nandakumar
--Kartikyogam Vathumayogam 
--Chloe Chan Xyuer
--Wong Yung Sheng
+-
+- Krisha Nandakumar
+- Kartikyogam Vathumayogam 
+- Chloe Chan Xyuer
+- Wong Yung Sheng
+
 ---
