@@ -20,7 +20,7 @@
   → Track current and past loans easily  
 
 - 📝 **Password Reset Functionality**  
-  → Allows users to securely reset their credentials  
+  → Allows users to reset their credentials securely  
 
 ---
 
@@ -31,4 +31,10 @@
 - **Structs & Classes**
 - **Date/Time** (`ctime`)
 
+---
+👩‍💻 Contributors
+-Krisha Nandakumar
+-Kartikyogam Vathumayogam 
+-Chloe Chan Xyuer
+-Wong Yung Sheng
 ---
